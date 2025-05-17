@@ -13,7 +13,7 @@ Este repositório contém uma coleção de 15 exercícios em JavaScript com Node
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/VeroPaz13/Lista-1-MaisPraTi2025.git
     ```
 2. Instale a única dependência necessária:
     ```bash
