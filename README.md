@@ -19,10 +19,6 @@ Este repositório contém uma coleção de 15 exercícios em JavaScript com Node
     ```bash
     npm install
     ```
-3. Entre na pasta:
-     ```bash
-    cd Exercícios - Lista 1
-    ```
 
 ## ▶️ Como executar os exercícios
 
