@@ -6,7 +6,7 @@ Este repositório contém uma coleção de 15 exercícios em JavaScript com Node
 
 - Exercícios básicos de lógica
 - Estruturas de controle (if, switch, loops)
-- Funções e arrays
+- Funções
 - Exercícios de cálculo e matemática
 
 ## Como usar
